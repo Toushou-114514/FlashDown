@@ -2,9 +2,9 @@
 
 **目前版本1.1**
 
-FlashDown 是一款基于 Java 开发的轻量级、多线程高速下载工具。它拥有现代化的暗色日志界面和极简的扁平化设计，支持文件分块并发下载
+FlashDown 是一款基于 Java 开发的轻量级、多线程高速下载工具。
 
-支持win10以上的系统
+支持 `win10 `以上的系统
 
 ## ✨ 功能
 
@@ -34,7 +34,12 @@ FlashDown 是一款基于 Java 开发的轻量级、多线程高速下载工具�
 
 ## 🖼️ 界面预览
 
-> <img width="806.5" weight="592.5" alt="image" src="https://github.com/user-attachments/assets/2f065903-7990-4802-a9d3-0d0fa8c15382" />
+> <img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/61e57732-0606-4b84-88f0-d80e780cc03e" />
+
+> <img width="450" height="230" alt="image" src="https://github.com/user-attachments/assets/703cd149-4fc0-40b2-8ce2-b188be11af62" />
+
+> <img width="341" height="255" alt="image" src="https://github.com/user-attachments/assets/fdfc56dd-446c-465e-a1e1-b2dc64058d07" />
+
 
 > **虽然这个UI很烂，但是工具绝对好用，而且完全免费**
 
@@ -48,18 +53,41 @@ FlashDown 是一款基于 Java 开发的轻量级、多线程高速下载工具�
 
 
 
-
-![Java](https://img.shields.io/badge/Java-17+-orange.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+---
 
 ## 📄 许可证
 
 [MIT](LICENSE)
 
 ---
+![Java](https://img.shields.io/badge/Java-17+-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-> 觉得好用就给仓库点个star吧
+
+
+
+
+> **`觉得好用就给仓库点个star吧`**
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+<img width="17.6" height="17.6" alt="ts" src="https://github.com/user-attachments/assets/b20a7dd6-0e86-41d5-97eb-75f792d7518a" />
+
+
 
 
 
